@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2021-summer-cs112
 venue: "George Mason University, Computer Science Department"
-date: 2021
+date: 2021-07-01
 location: "Fairfax, USA"
 ---
 
