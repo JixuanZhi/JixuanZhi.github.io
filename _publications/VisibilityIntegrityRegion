@@ -3,7 +3,7 @@ title: "VisibilityIntegrityRegion"
 collection: publications
 permalink: /publication/VisibilityIntegrityRegion
 excerpt: 'This paper is group following problem in 3D with visibility integrity.'
-date: 2019
+date: 2019-07-25
 venue: 'RA-L'
 paperurl: 'https://ieeexplore.ieee.org/document/8772150/'
 citation: 'Jixuan Zhi, Yue Hao, Christopher Vo, Marco Morales, and Jyh-Ming Lien. "Computing 3-d from-region visibility using visibility integrity." IEEE Robotics and Automation Letters 4, no. 4 (2019): 4286-4291.'
