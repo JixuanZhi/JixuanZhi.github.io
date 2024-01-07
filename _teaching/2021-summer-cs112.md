@@ -2,7 +2,7 @@
 title: "CS112: Intro to Programming (Python)."
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2021-summer-teaching-1
+permalink: /teaching/2021-summer-cs112
 venue: "George Mason University, Computer Science Department"
 date: 2021
 location: "Fairfax, USA"
