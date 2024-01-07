@@ -1,8 +1,8 @@
 ---
-title: "Learning a Robust Group Controller from an Optimized Surrogate"
+title: "Learning to herd among obstacles from an optimized surrogate."
 collection: publications
 permalink: /publication/ShepherdingwithPF
-excerpt: 'Learning to herd among obstacles from an Optimized Surrogate.'
+excerpt: 'This paper is about learning a robust group controller from an optimized surrogate'
 date: 2022-12-26
 venue: '2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)'
 paperurl: 'https://ieeexplore.ieee.org/document/9982269'
