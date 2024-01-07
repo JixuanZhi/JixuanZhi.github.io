@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/VI
 venue: "2019 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2019)"
-date: 2019-11-01
+date: 2019-11-05
 location: "Macao, China"
 ---
 
