@@ -23,7 +23,6 @@ Work experience
 
 * 2017-2023: Research Assistant
   * George Mason University
-  * Duties included: Tagging issues
   * Supervisor: Prof. Jyh-Ming Lien
 
 * 2016-2022: Teaching Assistant
