@@ -1,7 +1,7 @@
 ---
 title: "Human-Robot Coexistence Space"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
+permalink: /publication/Human-Robot Coexistence Space
 excerpt: 'This paper is about computational design in Human-Robot coexistence space.'
 date: 2021-07-14
 venue: 'IEEE Robotics and Automation Letters'
