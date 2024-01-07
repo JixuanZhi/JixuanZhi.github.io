@@ -1,5 +1,5 @@
 ---
-title: "Learning to herd among obstacles from an optimized surrogate."
+title: "Learning to Herd among Obstacles from an Optimized Surrogate"
 collection: publications
 permalink: /publication/ShepherdingwithPF
 excerpt: 'This paper is about learning a robust group controller from an optimized surrogate'
