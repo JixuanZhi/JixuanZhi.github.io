@@ -2,7 +2,7 @@
 title: "Visibility Integrity Region"
 collection: publications
 permalink: /publication/VisibilityIntegrityRegion
-excerpt: 'This paper is group following problem in 3D with visibility integrity.'
+excerpt: 'This paper is about the group following problem in 3D with visibility integrity.'
 date: 2019-07-25
 venue: 'IEEE Robotics and Automation Letters'
 paperurl: 'https://ieeexplore.ieee.org/document/8772150/'
