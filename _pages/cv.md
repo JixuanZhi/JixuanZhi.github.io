@@ -55,7 +55,7 @@ Teaching
   
 Review Service
 ======
-* Journals - Autonomous Robots, Artificial Intelligence Review, Scientific Reports
+* Journals - Autonomous Robots, Artificial Intelligence Review, Scientific Reports, Peer-to-Peer Networking and Applications, International Journal of Intelligent Robotics and Applications
 * Conferences - ICRA 2021, ICRA 2024
 
 
