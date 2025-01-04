@@ -6,7 +6,7 @@ excerpt: 'This paper is about computational design in Human-Robot collaboration 
 date: 2024-12-18
 venue: 'IEEE Robotics and Automation Letters'
 paperurl: 'https://ieeexplore.ieee.org/document/10806640'
-citation: 'Jixuan Zhi and Jyh-Ming Lien. "Improving Human-Robot Collaboration Via Computational Design." IEEE Robotics and Automation Letters 10, no. 2 (2024).'
+citation: 'Jixuan Zhi and Jyh-Ming Lien. "Improving Human-Robot Collaboration Via Computational Design." IEEE Robotics and Automation Letters 10, no. 2 (2025): 1074-1081.'
 ---
 
 Overview
