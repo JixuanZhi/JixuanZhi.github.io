@@ -9,11 +9,53 @@ paperurl: 'https://ieeexplore.ieee.org/document/9484808/'
 citation: 'Jixuan Zhi, Lap-Fai Yu, and Jyh-Ming Lien. "Designing human-robot coexistence space." IEEE Robotics and Automation Letters 6, no. 4 (2021): 7161-7168.'
 ---
 
-Overview
 
-When human-robot interactions become ubiquitous, the environment surrounding these interactions will have a significant impact on the safety and comfort of the human and the effectiveness and efficiency of the robot. This work uses an autonomous wheelchair as an example and investigates the computational design in the human-robot coexistence spaces.
+**1. Title & Authors**  
+**Title:** Designing Human-Robot Coexistence Space  
+**Authors:** Jixuan Zhi, Lap-Fai Yu, Jyh-Ming Lien (George Mason University)  
+**Affiliations:** George Mason University  
+**Contact:** jzhi@gmu.edu. zhijixuan@gmail.com
 
-We formulate the design problem as an optimization problem subject to constraints from both human preferences encoded in an action-object relation graph and motion limitations of the robot (e.g., nonholonomic constraint). The key enabling technology is a motion planner that can efficiently evaluate hundreds of similar motion planning problems.
+**2. Abstract**  
+We propose a computational framework to optimize room layouts for human-robot coexistence, balancing human preferences and robot navigation constraints (e.g., nonholonomic wheelchair motion). Our motion planner reduces design computation time by 65–70%, enabling real-time generation of accessible layouts for bedrooms, offices, and complex L-shaped rooms.
 
+**3. Layman’s Summary**  
+Imagine redesigning your living room so both humans and robots move comfortably. Our AI acts like an interior designer for shared spaces: it arranges furniture to match your preferences while ensuring wheelchair robots can navigate efficiently. Think of it as ‘feng shui’ for human-robot harmony!
+
+**4. Key Visuals**  
++ **Figures to Highlight:**  
+  + Figure 1: Comparison of bad vs. optimized layouts for wheelchair accessibility.
+  + Figure 2: Framework overview (optimization loop with motion planning).
+  + Figures 8–11: Optimized designs for bedrooms, offices, and L-shaped rooms.
+  + Figure 7: Motion planning time reduction (baseline vs. proposed method).
+
++ **Infographics:**  
+  + Workflow: Human preferences + robot constraints → layout optimization → accessibility paths.  
+  + RS-decomposition for nonholonomic motion planning.
+
+**5. Significance & Impact**  
++ **Key Contributions:**
+First framework to co-optimize human preferences and robot navigation in shared spaces.
+Ultra-fast motion planner: Reduces computation time from 10–20 minutes to 3–5 minutes.
+Demonstrated in diverse environments (bedrooms, L-shaped rooms, offices).
++ **Applications:** Accessible home design, smart offices, rehabilitation centers.
+
+**6. Download & Citation**  
++ **Download:** IEEE Xplore (DOI: 10.1109/LRA.2021.3097061)
++ **Cite (IEEE):** Jixuan Zhi, Lap-Fai Yu, and Jyh-Ming Lien. "Designing human-robot coexistence space." IEEE Robotics and Automation Letters 6, no. 4 (2021): 7161-7168.  
+
+**7. Media Kit**  
+Video Abstract: Create a 1-minute video showing:  
+High-Res Figures: Provide Figures 1 (layout comparison) and 8 (optimized designs) for press use.
+
+**8. Testimonials**   
+"Our planner reduces motion planning time by 65–70%, enabling real-time design optimization."
+
+**9. Related Work & Code**  
+**Following Research:**  
+**Code/Datasets:**  Available upon request (Unity/C# implementation).  
+
+**10. Press Coverage**  
+Presentate in a conference.  
 [paper] (https://ieeexplore.ieee.org/document/9484808/)
 
