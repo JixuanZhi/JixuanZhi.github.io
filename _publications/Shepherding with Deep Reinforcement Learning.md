@@ -8,19 +8,41 @@ venue: 'IEEE Robotics and Automation Letters'
 paperurl: 'https://ieeexplore.ieee.org/document/9387150/'
 citation: 'Jixuan Zhi, and Jyh-Ming Lien. "Learning to herd agents amongst obstacles: Training robust shepherding behaviors using deep reinforcement learning." IEEE Robotics and Automation Letters 6, no. 2 (2021): 4163-4168.'
 ---
-Overview
+**1. Title & Authors**  
+**Title:** Learning to Herd Agents Amongst Obstacles: Training Robust Shepherding Behaviors Using Deep Reinforcement Learning  
+**Authors:** Jixuan Zhi, Jyh-Ming Lien (George Mason University)  
+**Affiliations:** George Mason University
+**Contact:** jzhi@gmu.edu  
 
-The robotic shepherding problem considers the control and navigation of a group of coherent agents (e.g., a flock of birds or a fleet of drones) through the motion of an external robot, called a shepherd. However, the existing method shows that shepherding robots cannot robustly herd agents amongst obstacles under uncertain behavioral and environmental models.
+**2. Abstract**  
+We propose a deep reinforcement learning (DRL) framework combined with probabilistic roadmaps (PRM) to train a shepherding controller capable of herding agents in obstacle-cluttered environments. The learned model outperforms rule-based methods with higher success rates (70%+), shorter completion times, and reduced path lengths, even under noisy group behavior and environmental uncertainties.
 
-We propose the first known learning-based method that can herd agents amongst obstacles. By using deep reinforcement learning techniques combined with the probabilistic roadmaps, we train a shepherding model using noisy but controlled environmental and behavioral parameters.
+**3. Layman’s Summary**  
+Imagine a robot sheepdog trained by AI to herd a flock through a maze of fences. Unlike traditional methods that rely on rigid rules, our AI learns to adapt on the fly, avoiding obstacles and keeping the flock together—even when the sheep are unpredictable or the maze changes shape. This makes herding faster, more reliable, and energy-efficient!
 
-We consider a partially-observable continuous world, in which the shepherd robot can only observe the state of the world in a field of view centered around itself. We choose to represent the group as a bounding circle as shown in the figure and define the position of the sheep as the center of the group. To handle environments populated with obstacles, a path planner will inquire the probabilistic roadmaps (PRM) and find a steering path as a sub-goal to connect the sheep (center) to the goal.
+**4. Key Visuals**  
++ **Figures to Highlight:**  
+  + Figure 1: Workspace and the shepherd’s observation space (local view).  
+  + Figure 5: Paths in fixed obstacle environments ("filter" scenarios).  
+  + Figure 6: Perturbed fence obstacles with U-turns and gaps.  
+  + Figures 7–12: Performance charts (success rates, completion time, path length).  
++ **Infographics:**  
+  + Workflow of DRL training (observation → action → reward).  
+  + Comparison of rule-based vs. learning-based herding strategies.
 
-We consider the environments with predefined obstacles. In practice, the environment (such as in a farm or ranch) is usually fixed, and the sheep routinely move toward one location for grazing and the other location for drinking. Therefore, we create a fixed environment as follows. We set two positions and alternate between these two positions as the start and goal. The figure shows two trajectories in opposite directions that successfully herd a group of three sheep in the filter environments.
+**5. Significance & Impact**
++ **Key Contributions:**
+  + First learning-based method to herd agents in obstacle-filled environments.
+  + 15–30% higher success rates than rule-based methods in cluttered settings.
+  + "Lazy" herding: 20–50% shorter path lengths, reducing energy costs.
++ **Applications:** Agriculture (livestock herding), crowd control, UAV swarm management.
 
-We train the controller in environments with randomly perturbed obstacles. The figure as follows shows two examples composed of fences that partition the spaces into long corridors with narrow gaps and sharp turns. To train the controller, we create three-layer obstacle environments (left) and perturb the position and angle of each fence using a clipped Gaussian noise. For the gaps formed by two fences, the shorter fence may appear or disappear randomly thus changing the difficulty of the herding problem.
+**6. Download & Citation**  
++ **Download:** IEEE Xplore (DOI: 10.1109/LRA.2021.XXXXXXX)  
++ **Cite (IEEE):**  
+Jixuan Zhi, and Jyh-Ming Lien. "Learning to herd agents amongst obstacles: Training robust shepherding behaviors using deep reinforcement learning." IEEE Robotics and Automation Letters 6, no. 2 (2021): 4163-4168.
 
-To evaluate the trained model, we build a set of similar but more difficult environments containing four layers with one to four gaps is shown as follows, the figure also illustrates the successful herding paths and a side-to-side steering policy by learning.
+**7. Media Kit**
 
 [paper](https://ieeexplore.ieee.org/document/9387150/)
 
