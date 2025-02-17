@@ -1,8 +1,8 @@
 ---
-title: "Shepherding with Deep Reinforcement Learning"
+title: "Shepherding with Deep Reinforcement Learning and Probabilistic Roadmaps in Obstacle-filled environments"
 collection: publications
 permalink: /publication/Shepherding with Deep Reinforcement Learning
-excerpt: 'This paper is about learning a robust group controller using deep reinforcement learning .'
+excerpt: 'We propose a deep reinforcement learning (DRL) framework combined with probabilistic roadmaps (PRM) to train a shepherding controller capable of herding agents in obstacle-cluttered environments.'
 date: 2021-03-25
 venue: 'IEEE Robotics and Automation Letters'
 paperurl: 'https://ieeexplore.ieee.org/document/9387150/'
