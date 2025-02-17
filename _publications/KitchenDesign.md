@@ -24,14 +24,21 @@ Imagine redesigning your kitchen so humans and robots cook together seamlessly. 
 **4. Key Visuals**  
 + **Figures to Highlight:**  
   + Figure 1: Comparison of inefficient vs. optimized kitchen layouts.  
+    <img src="../images/kitchen/np20.png" width="460"> <img src="../images/kitchen/81V.png" width="460">
   + Figure 6: Four optimized kitchen designs with human/robot paths.  
-  + Figure 7–12: Cost comparisons across layouts (path length, narrowness, time).  
+    <img src="../images/kitchen/20V.png" width="460"> <img src="../images/kitchen/51V.png" width="460">
+    <img src="../images/kitchen/81V.png" width="460"> <img src="../images/kitchen/93V.png" width="460">
+  + Figure 8–9: Cost comparisons across layouts (path length, narrowness, time).
+    ![My Research Diagram](../images/kitchen/2C.png)
+    ![My Research Diagram](../images/kitchen/Interval-neg.png)
   + Table I: Benchmarking against existing frameworks.
-  + ![My Research Diagram](../images/kitchen/table.png)
+    ![My Research Diagram](../images/kitchen/table.png)
 
 + **Infographics:**  
-  + Workflow: Recipe planning → multi-agent motion planning → layout optimization.  
-  + Decentralized path planning (human priority + robot adaptation).  
+  + Workflow: Recipe planning → multi-agent motion planning → layout optimization.
+    ![My Research Diagram](../images/kitchen/overview.png)
+  + Decentralized path planning (human priority + robot adaptation).
+    ![My Research Diagram](../images/kitchen/mmpn.png)
 
 **5. Significance & Impact**
 + **Key Contributions:**
