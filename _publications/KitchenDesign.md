@@ -57,8 +57,6 @@ Imagine redesigning your kitchen so humans and robots cook together seamlessly. 
 **7. Media Kit**  
 + **Video Abstract:** Create a 1-minute video showing:  
   + Side-by-side cooking tasks in random vs. optimized kitchens (highlighting path efficiency).  
-  + Heatmaps of human/robot movement overlap reduction.  
-+ High-Res Figures: Provide Figures 1 (layout comparison) and 6 (optimized designs) for press use.  
 
 **8. Testimonials**  
 "Optimized layouts reduce human-robot path conflicts by 30% and idle time by 20%."
@@ -68,5 +66,5 @@ Imagine redesigning your kitchen so humans and robots cook together seamlessly. 
 + Code/Datasets: Unity/C# implementation is avaliable upon request.  
 
 **10. Press Coverage**  
-In conference  
-![paper] (https://ieeexplore.ieee.org/document/10806640)
+The paper will be presented In ICRA 2025, Atlanta, USA.  
+
