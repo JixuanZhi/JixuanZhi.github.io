@@ -48,7 +48,10 @@ Imagine redesigning your kitchen so humans and robots cook together seamlessly. 
 + **Applications:** Collaborative kitchens, smart factories, healthcare logistics.  
 
 **6. Download & Citation**  
-+ **Download:** IEEE Xplore (DOI: 10.1109/LRA.2025.XXXXXXX)
++ **Download:** IEEE Xplore (DOI: 10.1109/LRA.2024.3519863)
+  - [IEEE Version](https://ieeexplore.ieee.org/document/10806640)
+  - [arXiv Version](https://arxiv.org/abs/2303.11425)
+  - [Pre-Print Version](../files/to/local/file.pdf)
 + **Cite (IEEE):** Jixuan Zhi and Jyh-Ming Lien. "Improving Human-Robot Collaboration Via Computational Design." IEEE Robotics and Automation Letters 10, no. 2 (2025): 1074-1081.
 
 **7. Media Kit**  
@@ -66,4 +69,4 @@ Imagine redesigning your kitchen so humans and robots cook together seamlessly. 
 
 **10. Press Coverage**  
 In conference  
-[paper] (https://ieeexplore.ieee.org/document/10806640)
+![paper] (https://ieeexplore.ieee.org/document/10806640)
