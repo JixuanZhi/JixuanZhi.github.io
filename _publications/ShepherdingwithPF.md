@@ -1,8 +1,8 @@
 ---
-title: "Learning to Herd among Obstacles from an Optimized Surrogate"
+title: "Learning to Herd among Obstacles from an Optimized Potential Field with Deep Reinforcement Learning "
 collection: publications
 permalink: /publication/ShepherdingwithPF
-excerpt: 'This paper is about learning a robust group controller from an optimized potential field with reinforcement learning'
+excerpt: 'We propose a deep reinforcement learning (DRL) framework guided by an optimized potential field surrogate to herd large groups (7–8 agents) in obstacle-cluttered environments.'
 date: 2022-12-26
 venue: '2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)'
 paperurl: 'https://ieeexplore.ieee.org/document/9982269'
