@@ -51,7 +51,7 @@ Imagine redesigning your kitchen so humans and robots cook together seamlessly. 
 + **Download:** IEEE Xplore (DOI: 10.1109/LRA.2024.3519863)
   - [IEEE Version](https://ieeexplore.ieee.org/document/10806640)
   - [arXiv Version](https://arxiv.org/abs/2303.11425)
-  - [Pre-Print Version](../files/to/local/file.pdf)
+  - [Pre-Print Version](../files/Pre-Kitchen.pdf)
 + **Cite (IEEE):** Jixuan Zhi and Jyh-Ming Lien. "Improving Human-Robot Collaboration Via Computational Design." IEEE Robotics and Automation Letters 10, no. 2 (2025): 1074-1081.
 
 **7. Media Kit**  
