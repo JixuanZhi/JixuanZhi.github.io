@@ -1,5 +1,5 @@
 ---
-title: "Kitchen Design"
+title: "a Computational Design Framework to Optimize shared Spaces for Human-Robot Collaboration."
 collection: publications
 permalink: /publication/KitchenDesign
 excerpt: 'This paper is about computational design in Human-Robot collaboration kitchen space.'
@@ -30,6 +30,7 @@ Imagine redesigning your kitchen so humans and robots cook together seamlessly. 
 
 + **Infographics:**  
   + Workflow: Recipe planning → multi-agent motion planning → layout optimization.  
+    ![My Research Diagram](../images/kitchen/kitchen-overview.pdf) 
   + Decentralized path planning (human priority + robot adaptation).  
 
 **5. Significance & Impact**
