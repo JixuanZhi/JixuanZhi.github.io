@@ -24,10 +24,10 @@ Imagine redesigning your kitchen so humans and robots cook together seamlessly. 
 **4. Key Visuals**  
 + **Figures to Highlight:**  
   + Figure 1: Comparison of inefficient vs. optimized kitchen layouts.  
-    <img src="../images/kitchen/np20.png" width="400"> <img src="../images/kitchen/81V.png" width="400">
+    <img src="../images/kitchen/np20.png" width="350"> <img src="../images/kitchen/81V.png" width="350">
   + Figure 6: Four optimized kitchen designs with human/robot paths.  
-    <img src="../images/kitchen/20V.png" width="400"> <img src="../images/kitchen/51V.png" width="400">
-    <img src="../images/kitchen/81V.png" width="400"> <img src="../images/kitchen/93V.png" width="400">
+    <img src="../images/kitchen/20V.png" width="350"> <img src="../images/kitchen/51V.png" width="350">
+    <img src="../images/kitchen/81V.png" width="350"> <img src="../images/kitchen/93V.png" width="350">
   + Figure 8–9: Cost comparisons across layouts (path length, narrowness, time).
     ![My Research Diagram](../images/kitchen/2C.png)
     ![My Research Diagram](../images/kitchen/Interval-neg.png)
