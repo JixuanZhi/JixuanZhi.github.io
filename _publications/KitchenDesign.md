@@ -1,5 +1,5 @@
 ---
-title: "a Computational Design Framework to Optimize shared Spaces for Human-Robot Collaboration."
+title: "A Computational Design Framework to Optimize Shared Spaces for Human-Robot Collaboration."
 collection: publications
 permalink: /publication/KitchenDesign
 excerpt: 'This paper is about computational design in Human-Robot collaboration kitchen space.'
@@ -26,11 +26,11 @@ Imagine redesigning your kitchen so humans and robots cook together seamlessly. 
   + Figure 1: Comparison of inefficient vs. optimized kitchen layouts.  
   + Figure 6: Four optimized kitchen designs with human/robot paths.  
   + Figure 7–12: Cost comparisons across layouts (path length, narrowness, time).  
-  + Table I: Benchmarking against existing frameworks.  
+  + Table I: Benchmarking against existing frameworks.
+  + ![My Research Diagram](../images/kitchen/table.png)
 
 + **Infographics:**  
   + Workflow: Recipe planning → multi-agent motion planning → layout optimization.  
-    ![My Research Diagram](../images/kitchen/kitchen-overview.pdf) 
   + Decentralized path planning (human priority + robot adaptation).  
 
 **5. Significance & Impact**
