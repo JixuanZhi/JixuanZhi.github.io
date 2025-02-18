@@ -37,7 +37,8 @@ Imagine a robot sheepdog trained by AI to herd a large flock through a maze. Ins
 + **Applications:** Swarm robotics, UAV coordination, livestock management.  
 
 **6. Download & Citation**  
-+ **Download:** IEEE Xplore (DOI: 10.1109/IROS.2022.XXXXXXX)  
++ **Download:** IEEE Xplore (10.1109/IROS47612.2022.9982269) 
+  - [IEEE Version](https://ieeexplore.ieee.org/document/9982269)
 + **Cite (IEEE):**
 Jixuan Zhi, and Jyh-Ming Lien. "Learning to Herd Amongst Obstacles from an Optimized Surrogate." In 2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), pp. 2954-2961. IEEE, 2022.  
 
@@ -51,10 +52,11 @@ Jixuan Zhi, and Jyh-Ming Lien. "Learning to Herd Amongst Obstacles from an Optim
 "Our method achieves 80% success rates in 3-layer obstacle environments—10% higher than rule-based baselines."
 
 **9. Related Work & Code**  
-+ Prior Research: 
++ Prior Research: [Herding with DRL and Probabilistic Roadmaps](https://jixuanzhi.github.io/publication/Shepherding%20with%20Deep%20Reinforcement%20Learning)
 + Code/Datasets: Mention availability upon request (Python/C++ implementation).  
 
 **10. Press Coverage**  
-conference presentations.
+The paper is presented at IROS 2022, Kyoto, Japan (Online).  
+[IROS 2022 Presentation Talk](https://jixuanzhi.github.io/talks/PF)
 
-[paper](https://ieeexplore.ieee.org/document/9982269)
+
