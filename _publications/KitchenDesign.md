@@ -55,8 +55,9 @@ Imagine redesigning your kitchen so humans and robots cook together seamlessly. 
 + **Cite (IEEE):** Jixuan Zhi and Jyh-Ming Lien. "Improving Human-Robot Collaboration Via Computational Design." IEEE Robotics and Automation Letters 10, no. 2 (2025): 1074-1081.
 
 **7. Media Kit**  
-+ **Video Abstract:** Create a 1-minute video showing:  
-  + Side-by-side cooking tasks in random vs. optimized kitchens (highlighting path efficiency).  
++ **Video Abstract:**  
+[![Research Video](https://img.youtube.com/vi/DHFe_IXiOlM/0.jpg)](https://www.youtube.com/watch?v=DHFe_IXiOlM)
+
 
 **8. Testimonials**  
 "Optimized layouts reduce human-robot path conflicts by 30% and idle time by 20%."
