@@ -62,7 +62,7 @@ Imagine redesigning your kitchen so humans and robots cook together seamlessly. 
 "Optimized layouts reduce human-robot path conflicts by 30% and idle time by 20%."
 
 **9. Related Work & Code**  
-+ Prior Research: [Human-Robot Coexistence Space](https://ieeexplore.ieee.org/document/10806640)
++ Prior Research: [Human-Robot Coexistence Space](https://jixuanzhi.github.io/publication/Human-Robot%20Coexistence%20Space)
 + Code/Datasets: Unity/C# implementation is avaliable upon request.  
 
 **10. Press Coverage**  
