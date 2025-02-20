@@ -22,9 +22,18 @@ Imagine a robot sheepdog trained by AI to herd a large flock through a maze. Ins
 
 **4. Key Visuals**  
 + **Figures to Highlight:**  
-  + Figure 1: Overview of the optimized potential field and pixel-blob group representation.  
-  + Figure 3–4: Fixed (lattice, pachinko) and perturbed (U-turn, gap) obstacle environments.  
-  + Figures 5–10: Performance charts (success rates, completion time, energy cost).  
+  + Figure 1: Overview of the optimized potential field and pixel-blob group representation.
+    ![My Research Diagram](../images/pf/newoverview.png)
+  + Figure 3–4: Fixed (lattice, pachinko) and perturbed (U-turn, gap) obstacle environments.
+    <img src="../images/pf/filter-path.png" width="320"> <img src="../images/pf/circle-en.png" width="320">  
+    <img src="../images/pf/3t-new.png" width="320"> <img src="../images/pf/2t1s-text.png" width="320">
+  + Figures 5–10: Performance charts (success rates, completion time, energy cost).
+    <img src="../images/pf/lattice-7.png" width="320"> <img src="../images/pf/circle-7.png" width="320">  
+    <img src="../images/pf/3t-n7-rate.png" width="320"> <img src="../images/pf/3t-n8-rate.png" width="320">
+    ![My Research Diagram](../images/pf/3t-f-rate.png)
+    <img src="../images/pf/3t-al-rate.png" width="320"> <img src="../images/pf/3t-sc-rate.png" width="320">  
+    <img src="../images/pf/3t-sc-stime.png" width="320"> <img src="../images/pf/3t-sc-spath.png" width="320">
+    <img src="../images/pf/3t-sc-srad.png" width="320"> <img src="../images/pf/3t-sc-spower.png" width="320">
 + **Infographics:**  
   + Workflow: Potential field optimization → DRL training with pixel-blob observation.  
   + Comparison of rule-based vs. surrogate-guided herding.  
@@ -45,8 +54,8 @@ Jixuan Zhi, and Jyh-Ming Lien. "Learning to Herd Amongst Obstacles from an Optim
 **7. Media Kit**  
 + **Video Abstract:** Create a 1-minute video showing:
   + Flock navigation through lattice/pachinko environments using the potential field.  
-  + Side-by-side comparison with rule-based methods (highlighting success rate gaps).  
-+ High-Res Figures: Provide Figures 3 (fixed obstacles) and 6 (success rates) for press use.
+  + Side-by-side comparison with rule-based methods (highlighting success rate gaps).
+    [![Research Video](https://img.youtube.com/vi/ylGGIKBHaz4/0.jpg)](https://www.youtube.com/watch?v=ylGGIKBHaz4)
 
 **8. Testimonials**  
 "Our method achieves 80% success rates in 3-layer obstacle environments—10% higher than rule-based baselines."
