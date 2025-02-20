@@ -22,18 +22,18 @@ Imagine a robot sheepdog trained by AI to herd a large flock through a maze. Ins
 
 **4. Key Visuals**  
 + **Figures to Highlight:**  
-  + Figure 1: Overview of the optimized potential field and pixel-blob group representation.
+  + Figure 1: Overview of the optimized potential field and pixel-blob group representation.  
     ![My Research Diagram](../images/pf/newoverview.png)
-  + Figure 3–4: Fixed (lattice, pachinko) and perturbed (U-turn, gap) obstacle environments.
+  + Figure 3–4: Fixed (lattice, pachinko) and perturbed (U-turn, gap) obstacle environments.  
     <img src="../images/pf/filter-path.png" width="320"> <img src="../images/pf/circle-en.png" width="320">  
-    <img src="../images/pf/3t-new.png" width="320"> <img src="../images/pf/2t1s-text.png" width="320">
-  + Figures 5–10: Performance charts (success rates, completion time, energy cost).
+    <img src="../images/pf/3t-new.png" width="320"> <img src="../images/pf/2t1s-text.png" width="320">  
+  + Figures 5–10: Performance charts (success rates, completion time, energy cost).  
     <img src="../images/pf/lattice-7.png" width="320"> <img src="../images/pf/circle-7.png" width="320">  
     <img src="../images/pf/3t-n7-rate.png" width="320"> <img src="../images/pf/3t-n8-rate.png" width="320">
-    ![My Research Diagram](../images/pf/3t-f-rate.png)
+    ![My Research Diagram](../images/pf/3t-f-rate.png)  
     <img src="../images/pf/3t-al-rate.png" width="320"> <img src="../images/pf/3t-sc-rate.png" width="320">  
     <img src="../images/pf/3t-sc-stime.png" width="320"> <img src="../images/pf/3t-sc-spath.png" width="320">
-    <img src="../images/pf/3t-sc-srad.png" width="320"> <img src="../images/pf/3t-sc-spower.png" width="320">
+    <img src="../images/pf/3t-sc-srad.png" width="320"> <img src="../images/pf/3t-sc-spower.png" width="320">  
 + **Infographics:**  
   + Workflow: Potential field optimization → DRL training with pixel-blob observation.  
   + Comparison of rule-based vs. surrogate-guided herding.  
