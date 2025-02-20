@@ -38,11 +38,26 @@ Imagine a robot sheepdog trained by AI to herd a flock through a maze of fences.
 + **Applications:** Agriculture (livestock herding), crowd control, UAV swarm management.
 
 **6. Download & Citation**  
-+ **Download:** IEEE Xplore (DOI: 10.1109/LRA.2021.XXXXXXX)  
++ **Download:** IEEE Xplore (DOI: 10.1109/LRA.2021.XXXXXXX)
+  - [IEEE Version](https://ieeexplore.ieee.org/document/9387150)
+  - [arXiv Version](https://arxiv.org/abs/2005.09476)
+  - [Pre-Print Version](../files/Pre-Herd-PRM.pdf)
 + **Cite (IEEE):**  
 Jixuan Zhi, and Jyh-Ming Lien. "Learning to herd agents amongst obstacles: Training robust shepherding behaviors using deep reinforcement learning." IEEE Robotics and Automation Letters 6, no. 2 (2021): 4163-4168.
 
-**7. Media Kit**
+**7. Media Kit**  
++ **Video Abstract:** Create a 1-minute video showing:  
+Shepherd navigating flocks through fixed and perturbed obstacle courses.  
+Side-by-side comparison with rule-based methods (highlighting efficiency gains).  
 
-[paper](https://ieeexplore.ieee.org/document/9387150/)
+**8. Testimonials**  
+"The DRL controller achieves 70% success rates in unseen 4-layer obstacle environments—15% higher than rule-based methods."
+
+**9. Related Work & Code**  
+  + Following Research:[Herding with DRL and Potential Fields](https://jixuanzhi.github.io/publication/ShepherdingwithPF) 
+  + Code/Datasets: C++/Python implementation is avaliable upon request.  
+
+**10. Press Coverage**    
+The paper is presented at ICRA 2021, Xi'an, China (Online).  
+[ICRA 2021 Presentation Talk](https://jixuanzhi.github.io/talks/DRL)
 
