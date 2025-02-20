@@ -54,7 +54,7 @@ Comparison of VIR vs. reactive/IO methods (visible ratio and camera path).
 "The VIR method achieves 80% visibility with 60% less movement than reactive methods."  
 
 **9. Related Work & Code**  
-  + **Prior Research:** Reference [9] (previous 2D VIR work).  
+  + **Prior Research:** Jyh-Ming Lien and Young J. Kim. "Follow moving things in virtual world." In Proceedings of HCI Korea, pp. 69-73. 2016. (previous VIR work).  
   + **Code/Datasets:** C++ code avaliable upon request  
 
 **10. Press Coverage**  
