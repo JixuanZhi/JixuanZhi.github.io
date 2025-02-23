@@ -24,14 +24,22 @@ Imagine redesigning your living room so both humans and robots move comfortably.
 
 **4. Key Visuals**  
 + **Figures to Highlight:**  
-  + Figure 1: Comparison of bad vs. optimized layouts for wheelchair accessibility.
+  + Figure 1: Comparison of bad vs. optimized layouts for wheelchair accessibility.  
+    <img src="../images/hrspace/comp-bad-design.png" width="320"> <img src="../images/hrspace/comp-good-design.png" width="320">  
   + Figure 2: Framework overview (optimization loop with motion planning).
-  + Figures 8–11: Optimized designs for bedrooms, offices, and L-shaped rooms.
-  + Figure 7: Motion planning time reduction (baseline vs. proposed method).
-
+    ![My Research Diagram](../images/hrspace/framework.png)
+  + Figures 8–11: Optimized designs for bedrooms, offices, and L-shaped rooms.  
+        <img src="../images/hrspace/bed3.png" width="320"> <img src="../images/hrspace/bed4.png" width="320">
+        <img src="../images/hrspace/office1.png" width="320"> <img src="../images/hrspace/office2.png" width="320">
+        <img src="../images/hrspace/livingroom2.png" width="320"> <img src="../images/hrspace/livingroom4.png" width="320">
+        <img src="../images/hrspace/livingroom-L1.png" width="320"> <img src="../images/hrspace/livingroom-L2.png" width="320">  
+  + Figure 7: Motion planning time reduction (baseline vs. proposed method).  
+    ![My Research Diagram](../images/hrspace/time.png)  
 + **Infographics:**  
   + Workflow: Human preferences + robot constraints → layout optimization → accessibility paths.  
-  + RS-decomposition for nonholonomic motion planning.
+  + RS-decomposition for nonholonomic motion planning.  
+        <img src="../images/hrspace/Partition.png" width="600">
+
 
 **5. Significance & Impact**  
 + **Key Contributions:**
@@ -43,13 +51,15 @@ Imagine redesigning your living room so both humans and robots move comfortably.
 **6. Download & Citation**  
 + **Download:** IEEE Xplore (DOI: 10.1109/LRA.2021.3097061)
   - [IEEE Version](https://ieeexplore.ieee.org/document/9484808)
-  - [arXiv Version](https://arxiv.org/abs/2303.11425)
+  - [arXiv Version](https://arxiv.org/abs/2011.07374)
   - [Pre-Print Version](../files/Pre-HRS.pdf)
 + **Cite (IEEE):** Jixuan Zhi, Lap-Fai Yu, and Jyh-Ming Lien. "Designing human-robot coexistence space." IEEE Robotics and Automation Letters 6, no. 4 (2021): 7161-7168.  
 
 **7. Media Kit**  
-Video Abstract: Create a 1-minute video showing:  
-High-Res Figures: Provide Figures 1 (layout comparison) and 8 (optimized designs) for press use.
++ **Video Abstract:**
+  + Before/after room layouts (e.g., cluttered vs. optimized designs).  
+  + Time-lapse of motion planner generating wheelchair paths.  
+[![Research Video](https://img.youtube.com/vi/aIhTuh6p204/0.jpg)](https://www.youtube.com/watch?v=aIhTuh6p204)  
 
 **8. Testimonials**   
 "Our planner reduces motion planning time by 65–70%, enabling real-time design optimization."
