@@ -26,9 +26,14 @@ Imagine a camera tracking a swarm of drones in a cluttered 3D space. Our method 
 
 **4. Key Visuals**
 + **Figures to Highlight:**
-  + Figure 1: Visibility integrity values (high vs. low).
-  + Figure 2: Visibility-integrity regions in 3D environments (grid-based vs. kernel-based)
-  + Figure 4: Simulation environments (tower, pachinko, ruins, canyon).
+  + Figure 1: Visibility integrity values (high vs. low).  
+    <img src="../images/vir/high-vi-10-2.png" width="320"> <img src="../images/vir/low-vi-10-2.png" width="320">  
+  + Figure 2: Visibility-integrity regions in 3D environments (grid-based vs. kernel-based)  
+    <img src="../images/vir/bar-vi.png" width="320"> <img src="../images/vir/filter-vi-5.png" width="320">
+    <img src="../images/vir/vid3d.png" width="640"> 
+  + Figure 4: Simulation environments (tower, pachinko, ruins, canyon).  
+    <img src="../images/vir/tower-env.png" width="215"> <img src="../images/vir/pachinko-env.png" width="215"> <img src="../images/vir/ruins-env.png" width="215"> 
+    <img src="../images/vir/lands-env.png" width="430">  
 + **Infographics**: Summarize the VI workflow (sampling → clustering → VIR construction → planning).
 
 **5. Significance & Impact**
@@ -46,9 +51,10 @@ Imagine a camera tracking a swarm of drones in a cluttered 3D space. Our method 
   Jixuan Zhi, Yue Hao, Christopher Vo, Marco Morales, and Jyh-Ming Lien. "Computing 3-d from-region visibility using visibility integrity." IEEE Robotics and Automation Letters 4, no. 4 (2019): 4286-4291.
 
 **7. Media Kit**  
-  + **Video Abstract:** Create a 1-minute video showing:  
-3D simulations (e.g., camera tracking targets in the "canyon" environment).  
-Comparison of VIR vs. reactive/IO methods (visible ratio and camera path).  
+  + **Video Abstract:**  
+    + 3D simulations (e.g., camera tracking targets in the "canyon" environment).  
+    + Comparison of VIR vs. reactive/IO methods (visible ratio and camera path).  
+    [![Research Video](https://img.youtube.com/vi/NT-lFhS-ARk/0.jpg)](https://www.youtube.com/watch?v=NT-lFhS-ARk)
 
 **8. Testimonials**  
 "The VIR method achieves 80% visibility with 60% less movement than reactive methods."  
