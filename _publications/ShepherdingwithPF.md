@@ -48,6 +48,7 @@ Imagine a robot sheepdog trained by AI to herd a large flock through a maze. Ins
 **6. Download & Citation**  
 + **Download:** IEEE Xplore (10.1109/IROS47612.2022.9982269) 
   - [IEEE Version](https://ieeexplore.ieee.org/document/9982269)
+  - [Pre-Print Version](../files/Pre-Herd-PF.pdf)
 + **Cite (IEEE):**
 Jixuan Zhi, and Jyh-Ming Lien. "Learning to Herd Amongst Obstacles from an Optimized Surrogate." In 2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), pp. 2954-2961. IEEE, 2022.  
 
