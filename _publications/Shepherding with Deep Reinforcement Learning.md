@@ -22,10 +22,21 @@ Imagine a robot sheepdog trained by AI to herd a flock through a maze of fences.
 
 **4. Key Visuals**  
 + **Figures to Highlight:**  
-  + Figure 1: Workspace and the shepherd’s observation space (local view).  
+  + Figure 1: Workspace and the shepherd’s observation space (local view).
+    ![My Research Diagram](../images/prm/ob.png)
   + Figure 5: Paths in fixed obstacle environments ("filter" scenarios).  
+    <img src="../images/prm/filter-1-2.png" width="320"> <img src="../images/prm/filter-2-2.png" width="320">  
   + Figure 6: Perturbed fence obstacles with U-turns and gaps.  
+    <img src="../images/prm/Train-Gap.png" width="320"> <img src="../images/prm/test-3.png" width="320">  
   + Figures 7–12: Performance charts (success rates, completion time, path length).  
+        <img src="../images/prm/3S.png" width="320"> <img src="../images/prm/4S.png" width="320">
+        <img src="../images/prm/filter-0-f-rate.png" width="320"> <img src="../images/prm/filter-1-f-rate.png" width="320">  
+        <img src="../images/prm/filter-0-f-stime.png" width="320"> <img src="../images/prm/filter-1-f-stime.png" width="320">  
+        <img src="../images/prm/filter-0-f-spath.png" width="320"> <img src="../images/prm/filter-1-f-spath.png" width="320">  
+        <img src="../images/prm/3S.png" width="320"> <img src="../images/prm/4S.png" width="320">  
+        <img src="../images/prm/4ts-f-rate.png" width="500">  
+        <img src="../images/prm/4ts-f-stime.png" width="320"> <img src="../images/prm/4ts-f-spath.png" width="320">  
+  
 + **Infographics:**  
   + Workflow of DRL training (observation → action → reward).  
   + Comparison of rule-based vs. learning-based herding strategies.
@@ -38,7 +49,7 @@ Imagine a robot sheepdog trained by AI to herd a flock through a maze of fences.
 + **Applications:** Agriculture (livestock herding), crowd control, UAV swarm management.
 
 **6. Download & Citation**  
-+ **Download:** IEEE Xplore (DOI: 10.1109/LRA.2021.XXXXXXX)
++ **Download:** IEEE Xplore (DOI: 10.1109/LRA.2021.3068955)
   - [IEEE Version](https://ieeexplore.ieee.org/document/9387150)
   - [arXiv Version](https://arxiv.org/abs/2005.09476)
   - [Pre-Print Version](../files/Pre-Herd-PRM.pdf)
@@ -46,15 +57,16 @@ Imagine a robot sheepdog trained by AI to herd a flock through a maze of fences.
 Jixuan Zhi, and Jyh-Ming Lien. "Learning to herd agents amongst obstacles: Training robust shepherding behaviors using deep reinforcement learning." IEEE Robotics and Automation Letters 6, no. 2 (2021): 4163-4168.
 
 **7. Media Kit**  
-+ **Video Abstract:** Create a 1-minute video showing:  
-Shepherd navigating flocks through fixed and perturbed obstacle courses.  
-Side-by-side comparison with rule-based methods (highlighting efficiency gains).  
++ **Video Abstract:**  
+  + Shepherd navigating flocks through fixed and perturbed obstacle courses.  
+  + Side-by-side comparison with rule-based methods (highlighting efficiency gains).  
+    [![Research Video](https://img.youtube.com/vi/mnVHERbh614/0.jpg)](https://www.youtube.com/watch?v=mnVHERbh614)
 
 **8. Testimonials**  
 "The DRL controller achieves 70% success rates in unseen 4-layer obstacle environments—15% higher than rule-based methods."
 
 **9. Related Work & Code**  
-  + Following Research:[Herding with DRL and Potential Fields](https://jixuanzhi.github.io/publication/ShepherdingwithPF) 
+  + Following Research: [Herding with DRL and Potential Fields](https://jixuanzhi.github.io/publication/ShepherdingwithPF) 
   + Code/Datasets: C++/Python implementation is avaliable upon request.  
 
 **10. Press Coverage**    
