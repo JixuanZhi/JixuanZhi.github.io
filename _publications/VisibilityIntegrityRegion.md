@@ -29,8 +29,8 @@ Imagine a camera tracking a swarm of drones in a cluttered 3D space. Our method 
   + Figure 1: Visibility integrity values (high vs. low).  
     <img src="../images/vir/high-vi-10-2.png" width="320"> <img src="../images/vir/low-vi-10-2.png" width="320">  
   + Figure 2: Visibility-integrity regions in 3D environments (grid-based vs. kernel-based)  
-    <img src="../images/vir/bar-vi.png" width="320"> <img src="../images/vir/filter-vi-5.png" width="320">
-    <img src="../images/vir/vid3d.png" width="640"> 
+    <img src="../images/vir/bar-vi.png" width="320"> <img src="../images/vir/filter-vi-5.png" width="320">  
+    <img src="../images/vir/vir3d.png" width="640"> 
   + Figure 4: Simulation environments (tower, pachinko, ruins, canyon).  
     <img src="../images/vir/tower-env.png" width="215"> <img src="../images/vir/pachinko-env.png" width="215"> <img src="../images/vir/ruins-env.png" width="215"> 
     <img src="../images/vir/lands-env.png" width="430">  
