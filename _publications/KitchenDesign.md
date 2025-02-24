@@ -35,7 +35,10 @@ Imagine redesigning your kitchen so humans and robots cook together seamlessly. 
     > **Figure 8:** Comparison of costs for the same two burger tasks.
     
     ![My Research Diagram](../images/kitchen/Interval-neg.png)
-    > **Figure 9:** Comparison of Proposed Method vs Random Configurations (Mean Differences with 95% Confidence Intervals).  
+    > **Figure 9:** Comparison of Proposed Method vs Random Configurations (Mean Differences with 95% Confidence Intervals).
+  + Figure 11: Two L-shaped optimized kichen designs with human/robot paths.  
+    <img src="../images/kitchen/l50-L.png" width="320"> <img src="../images/kitchen/l90-L.png" width="320">
+    > **Figure 11:** Two kitchen designs with an L-shape room.  
   + Table I: Benchmarking against existing frameworks.
     ![My Research Diagram](../images/kitchen/table.png)
 
