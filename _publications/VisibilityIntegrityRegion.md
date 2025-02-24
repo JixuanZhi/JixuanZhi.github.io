@@ -27,14 +27,18 @@ Imagine a camera tracking a swarm of drones in a cluttered 3D space. Our method 
 **4. Key Visuals**
 + **Figures to Highlight:**
   + Figure 1: Visibility integrity values (high vs. low).  
-    <img src="../images/vir/high-vi-10-2.png" width="320"> <img src="../images/vir/low-vi-10-2.png" width="320">  
+    <img src="../images/vir/high-vi-10-2.png" width="320"> <img src="../images/vir/low-vi-10-2.png" width="320">
+    > **Figure 1:** A set of 10 points with high visibility integrity on the left and another set of 10 points in the same environment have low visibility integrity on the right. The lighter area means it is only visible from a few points.
   + Figure 2: Visibility-integrity regions in 3D environments (grid-based vs. kernel-based)  
     <img src="../images/vir/bar-vi.png" width="320"> <img src="../images/vir/filter-vi-5.png" width="320">  
-    <img src="../images/vir/vir3d.png" width="640"> 
+    <img src="../images/vir/vir3d.png" width="640">
+  > **Figure 2:** The visibility integrity regions in three different environments. (a) Grid-based visibility integrity region computed by naive method. (b) Sampling-based visibility region computed by naive method.
+(c) Convex hulls of the clusters acquired by applying the kernel-based method on sampled points. In all figures, each visibility integrity region has a visibility integrity of 0.5.
   + Figure 4: Simulation environments (tower, pachinko, ruins, canyon).  
     <img src="../images/vir/tower-env.png" width="215"> <img src="../images/vir/pachinko-env.png" width="215"> <img src="../images/vir/ruins-env.png" width="215"> 
-    <img src="../images/vir/lands-env.png" width="430">  
-+ **Infographics**: Summarize the VI workflow (sampling → clustering → VIR construction → planning).
+    <img src="../images/vir/lands-env.png" width="430">
+  > **Figure 4:** Images of the four 3D environments for the kernel-based offline experiments. From left to right: tower, pachinko, ruins, canyon. In all environments, all targets are in red, the camera is in dark blue, and the random goal is in sky blue.
++ **Infographics**:  VI workflow (sampling → clustering → VIR construction → planning).
 
 **5. Significance & Impact**
 + **Key Contributions:**
