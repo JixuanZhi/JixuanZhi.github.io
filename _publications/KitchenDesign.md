@@ -71,9 +71,8 @@ Imagine redesigning your kitchen so humans and robots cook together seamlessly. 
 **8. Testimonials**  
 "Optimized layouts reduce human-robot path conflicts by 30% and idle time by 20%."
 
-**9. Related Work & Code**  
-+ Prior Research: [Human-Robot Coexistence Space](https://jixuanzhi.github.io/publication/Human-Robot%20Coexistence%20Space)
-+ Code/Datasets: Unity/C# implementation is avaliable upon request.  
+**9. Related Work**  
++ Prior Research: [Human-Robot Coexistence Space](https://jixuanzhi.github.io/publication/Human-Robot%20Coexistence%20Space) 
 
 **10. Press Coverage**  
 The paper will be presented In ICRA 2025, Atlanta, USA.  
