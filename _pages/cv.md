@@ -49,7 +49,7 @@ Campus Experience
 Skills
 ======
 * Programming: Python, C/C++, C#, Java, Go, JavaScript, HTML
-* Tools: Unix/Linux, ROS, Bullet, Git, PyTorch, TensorFlow, Unity, VR, OpenCV, MATLAB, CAD, Docker
+* Tools: Unix/Linux, ROS, Bullet, Git, PyTorch, TensorFlow, Unity, VR, OpenCV, MATLAB, AutoCAD, SolidWorks, Docker
 
 Publications
 ======
