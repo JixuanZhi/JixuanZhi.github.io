@@ -71,8 +71,8 @@ Teaching
 
 Professional Service
 ======
-* Session Co-Chair, ICRA 2025 – IEEE International Conference on Robotics and Automation 
-  * Session: Human-Robot Collaboration 2 | May 2025, Atlanta, GA
+* Session Co-Chair, ICRA 2025 – IEEE International Conference on Robotics and Automation
+  * Session: Human-Robot Collaboration 2, May 2025, Atlanta, GA
 
 Professional Membership
 ======
@@ -80,7 +80,7 @@ Professional Membership
 
 Review Service
 ======
-* Journals - Autonomous Robots, Artificial Intelligence Review, Scientific Reports, Peer-to-Peer Networking and Applications, International Journal of Intelligent Robotics and Applications, Computers & Electrical engineering, Engineering Applications of Artificial Intelligence, Robotics and Computer-Integrated Manufacturing.
+* Journals - Autonomous Robots, Artificial Intelligence Review, Scientific Reports, Peer-to-Peer Networking and Applications, International Journal of Intelligent Robotics and Applications, Computers & Electrical Engineering, Engineering Applications of Artificial Intelligence, Robotics and Computer-Integrated Manufacturing.
 * Conferences - ICRA 2021, ICRA 2024
 
 
