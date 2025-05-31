@@ -75,5 +75,5 @@ Imagine redesigning your kitchen so humans and robots cook together seamlessly. 
 + Prior Research: [Human-Robot Coexistence Space](https://jixuanzhi.github.io/publication/Human-Robot%20Coexistence%20Space) 
 
 **10. Press Coverage**  
-The paper will be presented In ICRA 2025, Atlanta, USA.  
+The paper is presented at ICRA 2025, Atlanta, USA.  
 
