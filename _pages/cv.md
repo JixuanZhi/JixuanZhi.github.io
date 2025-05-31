@@ -15,7 +15,23 @@ Education
 * M.S. in Computer Science, George Mason University, 2020
 * Ph.D. in Computer Science, George Mason University, 2023 
 
-Work experience
+Work Experience
+======
+* 2023-Present: Applied Scienst
+  * Schnackel Engineers. Inc. Omaha, NE, USA
+  * Contributed to the development of a backend system designed to generate a clash-free and low-cost plumbing system in AutoCAD.
+  * Led a team of 3 people to proactively identify potential plumbing system problems and resolve them to enhance design accuracy.
+  * Managed the plumbing Water Sizing project focused on sizing pipes with pressure loss. Apply the Engineer Handbook sizing rule to codes.
+  * Took part in developing the Routing system for path finding in the plumbing system. Apply efficient Algorithms to generate 3D routes
+for the plumbing system under engineering constraints
+
+* 2012-2016: Mechanical Engineer and Process Engineer
+  * SINOMA-TCDRI, Tianjin, China 
+  * Designed and improved mechanical equipment in cement production lines for more than ten projects using AutoCAD.
+  * Participated in the design of two cement production lines. Guided on-site installation and commissioning of equipment.
+
+
+Campus Experience
 ======
 * 2021 Summer: University Lecturer
   * George Mason University
@@ -52,7 +68,16 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
+Professional Service
+======
+* Session Co-Chair, ICRA 2025 – IEEE International Conference on Robotics and Automation 
+  * Session: Human-Robot Collaboration 2 | May 2025, Atlanta, GA
+
+Professional Membership
+======
+* Senior Member, IEEE (Institute of Electrical and Electronics Engineers), since 2025
+
 Review Service
 ======
 * Journals - Autonomous Robots, Artificial Intelligence Review, Scientific Reports, Peer-to-Peer Networking and Applications, International Journal of Intelligent Robotics and Applications, Computers & Electrical engineering, Engineering Applications of Artificial Intelligence, Robotics and Computer-Integrated Manufacturing.
