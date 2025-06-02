@@ -4,10 +4,11 @@ collection: talks
 type: "Conference proceedings talk"
 permalink: /talks/DRL
 venue: "2021 IEEE International Conference on Robotics and Automation (ICRA 2021)"
-date: 2021-06-01
+date: 2021-06-03
 location: "Xi'an, China (Online)"
 ---
 
+Session: Multiple and Distributed Intelligence, ThJT19.2
 
 <div align="left">
       <a href="https://www.youtube.com/watch?v=hgXK_QQsNSg&ab_channel=jixuanzhi">
