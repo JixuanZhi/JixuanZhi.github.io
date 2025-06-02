@@ -4,7 +4,8 @@ collection: talks
 type: "Conference proceedings talk"
 permalink: /talks/HRC
 venue: "2025 IEEE International Conference on Robotics and Automation (ICRA 2025)"
-session: Human-Robot Collaboration 2
 date: 2025-05-21
 location: "Atlanta, GA, USA"
 ---
+
+Session: Human-Robot Collaboration 2, WeBT12.7
